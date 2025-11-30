@@ -6,6 +6,6 @@
     "heroku-postbuild": "cd scratch-and-map-front-end && yarn install && yarn build"
   },
   "dependencies": {
-    "heroku": "^8.2.0"
+    "heroku": "^7.64.0"
   }
 }
